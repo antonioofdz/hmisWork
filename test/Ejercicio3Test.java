@@ -1,11 +1,9 @@
-package Ejercicio3;
 
-import static org.junit.Assert.assertSame;
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
+
+import Ejercicio3.Ejercicio3;
 
 
 class Ejercicio3Test {

@@ -1,12 +1,11 @@
-package Ejercicio1;
+
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
-import org.junit.jupiter.params.provider.ValueSource;
-import org.junit.runners.Parameterized.Parameter;
+
+import Ejercicio1.Ejercicio1;
 
 class Ejercicio1Test {
 
